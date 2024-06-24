@@ -4,7 +4,7 @@ logo: /assets/myProfileCircleSmall.png # Use a relative path to logo image
 
 description: HCI Researcher # Fix hyphenation 
 
-show_downloads: true # Fix spelling
+# show_downloads: true # Fix spelling
 
 theme: jekyll-theme-minimal 
 
